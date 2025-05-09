@@ -44,7 +44,7 @@
     "dependencies": {
         "@date-io/date-fns": "^2.16.0",
         "@fontsource/ibm-plex-mono": "^4.5.13",
-        "@hello-pangea/dnd": "^16.2.0",
+        "@hello-pangea/dnd": "^17.0.0",
         "date-fns": "^2.29.3",
         "flexsearch": "^0.7.31",
         "formik": "^2.2.9",
@@ -61,7 +61,7 @@
         "react-window": "^1.8.8",
         "typeface-roboto": "^1.1.13",
         "typeface-rubik": "^1.1.13",
-        "yup": "^0.32.11"
+        "yup": "^1.0.0"
     },
     "peerDependencies": {
         "@emotion/react": "^11.9.3",
