@@ -5,7 +5,7 @@
     "dependencies": {
         "@emotion/react": "^11.10.6",
         "@emotion/styled": "^11.10.6",
-        "@firecms/data_enhancement": "workspace:data_enhancement",
+        "@firecms/data_enhancement": "0.9.2",
         "@mui/icons-material": "^5.11.11",
         "@mui/lab": "^5.0.0-alpha.124",
         "@mui/material": "^5.11.15",
